@@ -13,7 +13,8 @@ module.exports = {
         About: 'app/components/About.jsx',
         Example: 'app/components/Example.jsx',
         WeatherForm: 'app/components/WeatherForm.jsx',
-        Weatherinfo: 'app/components/Weatherinfo.jsx'
+        Weatherinfo: 'app/components/Weatherinfo.jsx',
+        openWeatherMap: 'app/api/openWeatherMap.jsx'
       },
       extensions: ['', '.js', '.jsx']
   },
@@ -28,5 +29,8 @@ module.exports = {
               exclude: /(node_modules|bower_components)/
           }
       ]
-    }
+    },
+    devtool: 'inline-source-map'
 };
+
+// "inline-source-map" or "eval-source-map" instead.

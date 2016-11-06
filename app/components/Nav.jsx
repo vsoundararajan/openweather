@@ -5,17 +5,15 @@ var React = require('react');
 import { Navbar, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
 var {Link, IndexLink} = require('react-router');
 
-var Navigation = React.createClass({
-    render: function () {
-      return (
-          <div>
+var Navigation = () => {
+    return (
+        <div>
             <IndexLink to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Get Weather</IndexLink>
             <Link to="/about" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>About</Link>
             <Link to="/example" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Example</Link>
-          </div>
-      );
-    }
-});
+        </div>
+    );
+};
 
 
 module.exports = Navigation;
