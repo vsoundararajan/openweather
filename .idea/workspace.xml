@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="285">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#0#65#0" expanded="false" />
               </folding>
@@ -75,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Example.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/components/Example.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -149,13 +149,13 @@
         <option value="$PROJECT_DIR$/app/api/openWeatherMap.jsx" />
         <option value="$PROJECT_DIR$/example-arrow-functions.js" />
         <option value="$PROJECT_DIR$/app/components/About.jsx" />
-        <option value="$PROJECT_DIR$/app/components/Example.jsx" />
         <option value="$PROJECT_DIR$/app/components/Main.jsx" />
         <option value="$PROJECT_DIR$/app/components/Nav.jsx" />
         <option value="$PROJECT_DIR$/app/components/WeatherInfo.jsx" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/app/components/Example.jsx" />
       </list>
     </option>
   </component>
@@ -373,12 +373,12 @@
       <updated>1478144207717</updated>
       <workItem from="1478144209017" duration="11077000" />
       <workItem from="1478242471559" duration="737000" />
-      <workItem from="1478280116911" duration="16485000" />
+      <workItem from="1478280116911" duration="16657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28299000" />
+    <option name="totallyTimeSpent" value="28471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="542" y="44" width="1322" height="866" extended-state="0" />
@@ -581,14 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/Example.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/components/Nav.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -639,11 +631,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="285">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#0#65#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Example.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
